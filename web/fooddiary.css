@@ -1,0 +1,28 @@
+/* 
+    The css file to format the output of html;
+    Created on : 18-Oct-2015, 11:37:13 AM
+    Author     : Yuhuan Chen
+*/
+
+th {
+    text-align: left;
+}
+
+tr:nth-child(even) {background-color: lightblue;}
+
+table {
+    background-color:lightcyan;
+    font-family: sans-serif;
+    width:80%;
+    margin: auto;
+}
+
+.tableHeader {
+    font-size: 16pt;
+    text-align:center;
+}
+
+#subButton {
+    text-align: center;
+}
+
